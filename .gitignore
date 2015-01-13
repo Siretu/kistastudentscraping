@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Contains secret login information
+email_settings.py
