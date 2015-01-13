@@ -3,10 +3,13 @@ Continually scrapes kistastudentbostader.se for student apartments and mails you
 
 
 To use, make sure you create a file called email_settings.py with the following rows:
+```python
 username = 'myemail@gmail.com'
 password = 'mypassword123'
 server = 'smtp.gmail.com'
 port = 587
+```
+
 
 Change the username, password, server and port as you want.
 
